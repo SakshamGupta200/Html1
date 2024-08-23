@@ -1,0 +1,89 @@
+body
+{
+	background-image: linear-gradient(maroon,yellow)
+}
+.outer
+{
+	height: 1200px;
+	width: 1000px;
+	background-color: red;
+}
+.menu
+{
+	height: 100px;
+	width: 1000px;
+	background-color: gray;
+	float: left;
+}
+.menu_part1
+{
+	height:100px;
+	width: 200px;
+	background-color: navy;
+	float: left; 
+}
+
+.menu_part2
+{
+	height:100px;
+	width: 200px;
+	background-color: pink;
+	float: left; 
+}
+.menu_part3
+{
+	height:100px;
+	width: 200px;
+	background-color: orange;
+	float: left; 
+}
+.menu_part4
+{
+	height:100px;
+	width: 200px;
+	background-color: teal;
+	float: left; 
+}
+.menu_part5
+{
+	height:100px;
+	width: 200px;
+	background-color: green;
+	float: left; 
+}
+.work
+{
+	height: 800px;
+	width: 1000px;
+	background-color: yellow;
+	float: left;
+}
+.work_part1
+{
+	height: 800px;
+	width: 200px;
+	background-color: indigo;
+	float: left;
+}
+
+.work_part2
+{
+	height: 800px;
+	width: 600px;
+	background-color: azure;
+	float: left;
+}
+.work_part3
+{
+	height: 800px;
+	width: 200px;
+	background-color: purple;
+	float: left;
+}
+.footer
+{
+	height: 300px;
+	width: 1000px;
+	background-color: skyblue;
+
+}
